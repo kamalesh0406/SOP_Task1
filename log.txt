@@ -1,0 +1,9 @@
+git clone :
+Copies the repo onto my PC
+
+
+git branch :
+Used to chek the branches that are available. Also can create a new branch using this command
+
+git checkout:
+Used to switch branches
