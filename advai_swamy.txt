@@ -1,0 +1,20 @@
+git clone :
+Copies the repo onto my PC
+
+git branch :
+Used to chek the branches that are available. Also can create a new branch using this command
+
+git checkout:
+Used to switch branches
+
+git ls-files:
+To check what files are in the branch
+
+git mv log.txt firstname_lastname.txt:
+Used to rename log.txt
+
+git pull:
+Get the latest commits from github
+
+git push:
+Push the local commits to github
